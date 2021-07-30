@@ -1,2 +1,2 @@
 # springboot-redis
-Springboot-redis集成示例
+Springboot集成redis示例
